@@ -24,6 +24,6 @@ public class FenetrePrincipale extends JFrame {
         this.add(this.panPrincipal);
         
         this.pack();
-        this.setVisible(true);
+        this.setVisible(true); //eueioeop
     }   // Fin du constructeur    
 } // Fin de la classe FenetrePrincipale
