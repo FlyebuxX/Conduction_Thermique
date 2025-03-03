@@ -24,6 +24,6 @@ public class FenetrePrincipale extends JFrame {
         this.add(this.panPrincipal);
         
         this.pack();
-        this.setVisible(true); // COUCOU LOIC
+        this.setVisible(true); // COUCOU LOICkdkd
     }   // Fin du constructeur    
 } // Fin de la classe FenetrePrincipale
