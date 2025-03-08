@@ -3,13 +3,13 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package Application;
+package app;
 
 import IHM.FenetrePrincipale;
 import javax.swing.SwingUtilities;
 
-/**** @author Christian Daul */
-public class ProjetDeBase {
+/**** @author Loïc BELLEC & Valentin EBERHARDT  */
+public class main {
 
     /*** @param args the command line arguments   */
     public static void main(String[] args) {

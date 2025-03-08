@@ -8,22 +8,22 @@ package IHM;
 import java.awt.Dimension;
 import javax.swing.JFrame;
 
-/**** @author Christian Daul  */
+/**** @author Loïc Bellec & Valentin EBERHARDT  */
 public class FenetrePrincipale extends JFrame {
     private PanneauPrincipal panPrincipal ;
     
     public FenetrePrincipale() {
-        super() ;
+        super();
         
-        this.setTitle("TITRE DU PROGRAMME");
+        this.setTitle("Transfert de chaleur à travers du bois sec");
         this.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         this.setLocation(400, 300);
-        this.setMinimumSize(new Dimension(650,480));
+        this.setMinimumSize(new Dimension(1000,700));
         
         this.panPrincipal = new PanneauPrincipal() ;
         this.add(this.panPrincipal);
         
         this.pack();
-        this.setVisible(true); // COUCOU LOICkdkd
+        this.setVisible(true);
     }   // Fin du constructeur    
 } // Fin de la classe FenetrePrincipale
