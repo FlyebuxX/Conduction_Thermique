@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f68375a7-999f-4bf1-8c1d-3358a7114d95" name="Changes" comment="textPanel creation">
+      <change afterPath="$PROJECT_DIR$/HeatTransfer/src/IHM/ImagePanel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HeatTransfer/build/classes/IHM/FenetrePrincipale.class" beforeDir="false" afterPath="$PROJECT_DIR$/HeatTransfer/build/classes/IHM/FenetrePrincipale.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HeatTransfer/build/classes/IHM/PanneauPrincipal.class" beforeDir="false" afterPath="$PROJECT_DIR$/HeatTransfer/build/classes/IHM/PanneauPrincipal.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HeatTransfer/nbproject/private/private.properties" beforeDir="false" afterPath="$PROJECT_DIR$/HeatTransfer/nbproject/private/private.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HeatTransfer/nbproject/private/private.xml" beforeDir="false" afterPath="$PROJECT_DIR$/HeatTransfer/nbproject/private/private.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HeatTransfer/nbproject/project.properties" beforeDir="false" afterPath="$PROJECT_DIR$/HeatTransfer/nbproject/project.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HeatTransfer/src/IHM/setGradientColor.java" beforeDir="false" afterPath="$PROJECT_DIR$/HeatTransfer/src/IHM/setGradientColor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Conduction_Thermique/IHM/FenetrePrincipale.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Conduction_Thermique/IHM/PanneauPrincipal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Conduction_Thermique/IHM/commandPanel$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Conduction_Thermique/IHM/commandPanel$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Conduction_Thermique/IHM/commandPanel.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Conduction_Thermique/IHM/setGradientColor$1$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Conduction_Thermique/IHM/setGradientColor$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Conduction_Thermique/IHM/setGradientColor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Conduction_Thermique/IHM/textPanel.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Conduction_Thermique/app/main.class" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Merge.Settings">
+    <option name="BRANCH" value="origin/master" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;FlyebuxX&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/FlyebuxX/Conduction_Thermique.git&quot;,
+    &quot;accountId&quot;: &quot;957d18f3-e3de-4892-a956-88c85fd34338&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2toJWuoQIKKi3JfMmANj2fogJVF" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.IHM.setGradientColor.executor": "Run",
+    "Application.ProjetDeBase.executor": "Run",
+    "Application.TestPanel.executor": "Run",
+    "Application.main.executor": "Run",
+    "Application.setColor.executor": "Run",
+    "Application.setGradientColor (1).executor": "Debug",
+    "Application.setGradientColor.executor": "Run",
+    "Application.test.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/Utilisateur/OneDrive/Documents/Cursus/ENSGSI/2AP/TP_Informatique/Conduction_Thermique/HeatTransfer",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.setGradientColor">
+    <configuration name="IHM.setGradientColor" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="22" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="IHM.setGradientColor" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="IHM.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestPanel" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="IHM.TestPanel" />
+      <module name="Conduction_Thermique" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="IHM.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="app.main" />
+      <module name="Conduction_Thermique" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="app.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="setGradientColor (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="IHM.setGradientColor" />
+      <module name="Conduction_Thermique" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="IHM.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="setGradientColor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="$USER_HOME$/.jdks/openjdk-22.0.2-1" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="IHM.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="Conduction_Thermique" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="Conduction_Thermique" />
+      <option name="filePath" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Application.IHM.setGradientColor" />
+      <item itemvalue="Application.main" />
+      <item itemvalue="Application.setGradientColor" />
+      <item itemvalue="Application.setGradientColor (1)" />
+      <item itemvalue="Application.TestPanel" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.setGradientColor" />
+        <item itemvalue="Application.setGradientColor (1)" />
+        <item itemvalue="Application.main" />
+        <item itemvalue="Application.TestPanel" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-a94e463ab2e7-intellij.indexing.shared.core-IU-243.25659.59" />
+        <option value="bundled-js-predefined-d6986cc7102b-1632447f56bf-JavaScript-IU-243.25659.59" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f68375a7-999f-4bf1-8c1d-3358a7114d95" name="Changes" comment="" />
+      <created>1741012528955</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1741012528955</updated>
+      <workItem from="1741012530274" duration="244000" />
+      <workItem from="1741012798876" duration="2731000" />
+      <workItem from="1741250889344" duration="101000" />
+      <workItem from="1741452379584" duration="104000" />
+      <workItem from="1741452497782" duration="7359000" />
+      <workItem from="1741465764871" duration="36000" />
+      <workItem from="1741465812866" duration="101000" />
+      <workItem from="1741508980054" duration="139000" />
+      <workItem from="1741519811330" duration="1216000" />
+    </task>
+    <task id="LOCAL-00001" summary="Projet de Base">
+      <option name="closed" value="true" />
+      <created>1741012668349</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1741012668349</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Projet de Base">
+      <option name="closed" value="true" />
+      <created>1741012748159</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1741012748159</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Projet de Base">
+      <option name="closed" value="true" />
+      <created>1741013051367</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1741013051367</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Projet de Base">
+      <option name="closed" value="true" />
+      <created>1741013564729</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1741013564729</updated>
+    </task>
+    <task id="LOCAL-00005" summary="textPanel creation">
+      <option name="closed" value="true" />
+      <created>1741461961297</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1741461961297</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Projet de Base" />
+    <MESSAGE value="textPanel creation" />
+    <option name="LAST_COMMIT_MESSAGE" value="textPanel creation" />
+  </component>
+</project>
